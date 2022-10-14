@@ -1,0 +1,16 @@
+pkgbase = geekbench
+	pkgdesc = A cross-platform benchmark that measures processor and memory performance
+	pkgver = 5.4.4
+	pkgrel = 1
+	url = https://www.geekbench.com/
+	arch = aarch64
+	arch = armv7h
+	license = custom
+	depends = zlib
+	depends = gcc-libs
+	conflicts = geekbench227
+	options = !strip
+	source = http://cdn.geekbench.com/Geekbench-5.4.4-LinuxARMPreview.tar.gz
+	sha512sums = 30fb53698f85acf4a269d23a3bddefc815a1f7353ba6224f07486f6c1c2a843fe250c50b8e14ca44be9265e9e7002ccd6fe0de01dee3e969b1a7f93330a3a62b
+
+pkgname = geekbench
