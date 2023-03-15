@@ -1,1 +1,1 @@
-this alien repository belongs to a martian named mashrafi, where he takes up valuable github storage by storing miscellaneous files. you can take whatever you like, though.
+Howdy! I am Mashrafi Rahman, a loyal Rustacean. I love Rust, and I hate Python. Right now, I'm learning C, and I will learn other low-level languages like Zig and C++ soon. I'd love to collaborate with you on a Rust project, though!
